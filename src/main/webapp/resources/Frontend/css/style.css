@@ -20,11 +20,7 @@ a{text-decoration:none;}
 .vertical-top{	vertical-align:top;}/* vertical align top */
 .underline{	padding-bottom:5px;	border-bottom: 1px solid #eee; margin:0 0 20px 0;}/* Add 5px bottom padding and a underline */
 
-img{
-	width: 100px;
-	max-width:100%;
-
-}
+img{max-width:100%;}
 /*end reset*/
 
 .border-div{
